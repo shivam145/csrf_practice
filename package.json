@@ -1,0 +1,26 @@
+{
+  "name": "medium_tutorial_csrf",
+  "version": "1.0.0",
+  "description": "practice the csrf token genration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "csrf",
+    "authentication",
+    "and",
+    "authorization"
+  ],
+  "author": "shivam mittal",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/polyfill": "^7.11.5",
+    "@babel/preset-env": "^7.11.5",
+    "@babel/register": "^7.0.0",
+    "babel-core": "^6.26.3",
+    "lodash": "^4.17.20",
+    "moment": "^2.29.0"
+  }
+}
